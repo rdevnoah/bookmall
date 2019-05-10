@@ -18,10 +18,11 @@ import bookmall.vo.OrderVo;
 public class MainApp {
 	public static void main(String[] args) {
 
-		// insert
-		// insertDB();
+		// ------insert
+		insertDB();
+		
 
-		// display
+		// ------display
 		display();
 
 	}

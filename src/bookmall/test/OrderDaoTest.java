@@ -11,9 +11,9 @@ public class OrderDaoTest {
 	public static void main(String[] args) {
 
 		// insertOrderTest(new OrderVo(6L, 28000, "대구"));
-		insertOrderBookTest();
-		// getOrderBookListTest(1L);
-		// getOrderListTest(2L);
+		// insertOrderBookTest();
+		getOrderBookListTest(1L);
+		getOrderListTest(2L);
 	}
 
 	public static void getOrderListTest(Long memberNo) {

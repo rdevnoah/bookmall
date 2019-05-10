@@ -14,7 +14,7 @@ public class CategoryDaoTest {
 //		insertTest("경제");
 //		insertTest("예술");
 //		
-//		getListTest();
+		getListTest();
 
 	}
 

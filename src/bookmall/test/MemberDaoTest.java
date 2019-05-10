@@ -7,9 +7,9 @@ import bookmall.vo.MemberVo;
 
 public class MemberDaoTest {
 	public static void main(String[] args) {
-		// getListTest();
+		getListTest();
 
-		// insertTest("안대혁", "12345", "010-2222-2222", "kickscar@gmail.com");
+		//insertTest("안대혁", "12345", "010-2222-2222", "kickscar@gmail.com");
 	}
 
 	public static void getListTest() {
